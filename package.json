@@ -1,0 +1,14 @@
+{
+  "name": "travisci-test",
+  "version": "1.0.0",
+  "description": "it's for travisci test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "keywords": [
+    "travisci"
+  ],
+  "author": "zuowsh@cn.ibm.com",
+  "license": "Apache-2.0"
+}
